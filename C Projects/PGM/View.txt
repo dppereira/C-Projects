@@ -1,0 +1,2 @@
+For some reason https://smallpond.ca/jim/photomicrography/pgmViewer/index.html is not working with those files, 
+so it's better testing on http://paulcuth.me.uk/netpbm-viewer/.
